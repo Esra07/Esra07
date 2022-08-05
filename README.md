@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate with python developers.
-- 📫 You can reach me via [Gmail](esra.ovali@gmail.com) 
+- 📫 You can reach me via esra.ovali@gmail.com 
 - ⚡ To learn and apply coding is fun.
 
 # Common
