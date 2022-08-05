@@ -1,6 +1,6 @@
 ### Hi, Welcome to My GitHub Profile!
 
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with python developers.
 - 📫 You can reach me via esra.ovali@gmail.com 
 - ⚡ To learn and apply coding is fun.
